@@ -1,0 +1,23 @@
+[
+    {"id":0,  "title":"American Dreamz","author":"Xenia Bouda","number_of_pages":91,"category":"science fiction","rating":6},
+    {"id":1,  "title":"Jo Pour Jonathan","author":"Lorilyn Laurance","number_of_pages":100,"category":"engineering","rating":10},
+    {"id":2,  "title":"Hotel Chevalier (Part 1 of 'The Darjeeling Limited')","author":"Gabriel Pikett","number_of_pages":52,"category":"romance","rating":2},
+    {"id":3,  "title":"Magical Mystery Tour","author":"Gerik Pocke","number_of_pages":10,"category":"poetry","rating":5},
+    {"id":4,  "title":"Meet Wally Sparks","author":"Thorstein Gillon","number_of_pages":83,"category":"science fiction","rating":9},
+    {"id":5,  "title":"My One and Only","author":"Clive Tidswell","number_of_pages":67,"category":"romance","rating":7},
+    {"id":6,  "title":"Revenge of the Ninja","author":"Currey Lohrensen","number_of_pages":29,"category":"philosophy","rating":9},
+    {"id":7,  "title":"Hangtime - Kein leichtes Spiel","author":"Gabbey Goldstone","number_of_pages":60,"category":"chemistry","rating":9},
+    {"id":8,  "title":"Lola","author":"Pearline Snelson","number_of_pages":72,"category":"engineering","rating":1},
+    {"id":9,  "title":"Brain That Wouldn't Die, The","author":"Neely Dunklee","number_of_pages":37,"category":"mathematics","rating":9},
+    {"id":10, "title":"Red Obession","author":"Bailey Barth","number_of_pages":69,"category":"philosophy","rating":5},
+    {"id":11, "title":"The Girl from the Marsh Croft","author":"Lorelei Razzell","number_of_pages":79,"category":"poetry","rating":1},
+    {"id":12, "title":"The Big Flame","author":"Corny Cleiment","number_of_pages":36,"category":"mathematics","rating":9},
+    {"id":13, "title":"Music From Another Room","author":"Gibbie Hudspeth","number_of_pages":75,"category":"science fiction","rating":2},
+    {"id":14, "title":"Smokey and the Bandit II","author":"Janaya Gownge","number_of_pages":63,"category":"physics","rating":2},
+    {"id":15, "title":"Mildred Pierce","author":"Aldon Glencros","number_of_pages":50,"category":"physics","rating":2},
+    {"id":16, "title":"Undocumented","author":"Helena Brave","number_of_pages":82,"category":"romance","rating":5},
+    {"id":17, "title":"American Pie Presents: The Book of Love (American Pie 7: The Book of Love)","author":"Germaine Izakof","number_of_pages":13,"category":"poetry","rating":10},
+    {"id":18, "title":"Rocky II","author":"Joby Mayling","number_of_pages":77,"category":"chemistry","rating":1},
+    {"id":19, "title":"Gunner Palace","author":"Natale Carlile","number_of_pages":30,"category":"philosophy","rating":4},
+    {"id":20, "title":"Halloween 4: The Return of Michael Myers","author":"Reginauld Shakle","number_of_pages":39,"category":"poetry","rating":10}
+    ]
